@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of generated soccer ball on a chess board](/images/chess.webp){: .align-right width = "300px:"}
+![Illustration of generated soccer ball on a chess board](/images/chess.webp){:  .align-right width="300px:"}
 🧑🏻‍💻 I'm a senior undergraduate student at UC Berkeley
 
 🔬 My research interests are in Computational Biology and the power of data 
